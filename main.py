@@ -16,7 +16,7 @@ def spustit_hru():
         pokusy += 1
         if vyhodnot_hru(zadane_cislo, tajne_cislo):
             break
-    print(f"Vyhral jsi")
+    print(f"Vyhral jsi!!")
     print(f"Pocet pokusu {pokusy}")
     # print(tajne_cislo)
 
